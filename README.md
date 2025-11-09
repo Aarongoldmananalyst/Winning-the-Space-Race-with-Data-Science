@@ -1,6 +1,7 @@
 <!-- PROJECT HEADER -->
 <p align="center">
-  <img src="visuals/space_race_banner.png" alt="Winning the Space Race with Data Science Banner" width="100%">
+  <img width="1536" height="1024" alt="4ecd1b2a-0b59-4f8c-b82d-7c232701f924" src="https://github.com/user-attachments/assets/80bab2d7-4e99-46e6-8a42-6469ef448ea0" />
+
 </p>
 
 <h1 align="center">🛰️ Winning the Space Race with Data Science</h1>
@@ -140,6 +141,8 @@ Visual analytics converts data into executive action.
 👨‍🚀 Author
 
 Aaron Goldman
+
+
 Data Analyst | Machine Learning | Business Intelligence Storyteller
 
 <p align="center"> <a href="https://linkedin.com/in/aaron-goldmans"><img src="https://img.shields.io/badge/Connect-LinkedIn-blue?logo=linkedin"></a> <a href="https://github.com/AaronKGoldman"><img src="https://img.shields.io/badge/View-GitHub-black?logo=github"></a> <a href="https://github.com/AaronKGoldman/Data-Science-Capstone-IBM"><img src="https://img.shields.io/badge/Open-Portfolio-orange?logo=python"></a> </p>
