@@ -34,7 +34,7 @@
 
 | ▶️ Environment | 🔗 Link |
 |:---------------|:--------|
-| [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<aaronkgoldman>/Winning-the-Space-Race/blob/main/Space_Race_Analytics.ipynb) | *Run directly in Google Colab (no setup required)* |
+| [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/AaronKGoldman/Data-Science-Capstone-IBM/blob/028387f28689fbf836e49a2b1196e16983426f2a/1.%20Space-X%20Data%20Collection%20API.ipynb) | *Run directly in Google Colab (no setup required)* |
 | [![View on GitHub](https://img.shields.io/badge/Open%20on-GitHub-black?logo=github)](https://github.com/<YOUR-USERNAME>/Winning-the-Space-Race) | *Browse code, data, and visuals* |
 
 ---
