@@ -32,14 +32,11 @@
 
 ## 🌐 Live Demo Access
 
-| ▶️ Environment | 🔗 Link |
-|:---------------|:--------|
-| [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/AaronKGoldman/Data-Science-Capstone-IBM/blob/028387f28689fbf836e49a2b1196e16983426f2a/1.%20Space-X%20Data%20Collection%20API.ipynb) | *Run directly in Google Colab (no setup required)* |
-| [![View on GitHub](https://img.shields.io/badge/Open%20on-GitHub-black?logo=github)](https://github.com/AaronKGoldman/Data-Science-Capstone-IBM/blob/028387f28689fbf836e49a2b1196e16983426f2a/1.%20Space-X%20Data%20Collection%20API.ipynb) | *Browse code, data, and visuals* |
 
----
 
-| Environment                         | Access                                                                                                                                                                                        |
+
+
+| ▶️ Environment                         | 🔗 Access                                                                                                                                                                                        |
 | ----------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 🧠 **Open in Colab**                | <a href="https://github.com/Aarongoldmananalyst/IBM-Data-Analytics-Capstone/blob/main/1.%20Accessing%20APIs.ipynb" target="_blank">Run directly in Google Colab (no setup required)</a>       |
 | 💻 **View on GitHub**               | <a href="https://github.com/Aarongoldmananalyst/Winning-the-Space-Race-with-Data-Science" target="_blank">Browse source code, data, and notebooks</a>                                         |                                                                                                                                   
@@ -130,13 +127,14 @@ Key outcomes include:
 
 ---
 
-## 🌟 Recruiter Highlights
 
-✅ End-to-end pipeline: From raw data → dashboards → predictive models
-✅ Instant demo: Colab-ready and fully interactive
-✅ Business storytelling: Translates technical analytics into ROI impact
-✅ Visual polish: Banner, badges, and GIFs make it stand out
-✅ Keywords: Data Analytics · Machine Learning · SQL · Predictive Modeling · Visualization
+
+## ⭐ Recruiter Highlights
+- End-to-end analytics pipeline: raw data → ML models → executive insights
+- Predictive modeling with 86.7% accuracy (Decision Tree)
+- Strong SQL + Python integration for analytics workflows
+- Executive storytelling focused on ROI and business impact
+
 
 ---
 
