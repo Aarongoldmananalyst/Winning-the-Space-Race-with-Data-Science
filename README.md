@@ -30,20 +30,61 @@
 
 ---
 
+
+---
 ## 🌐 Live Demo Access
 
-
-
-
-
-| ▶️ Environment                         | 🔗 Access                                                                                                                                                                                        |
-| ----------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🧠 **Open in Colab**                | <a href="https://github.com/Aarongoldmananalyst/IBM-Data-Analytics-Capstone/blob/main/1.%20Accessing%20APIs.ipynb" target="_blank">Run directly in Google Colab (no setup required)</a>       |
-| 💻 **View on GitHub**               | <a href="https://github.com/Aarongoldmananalyst/Winning-the-Space-Race-with-Data-Science" target="_blank">Browse source code, data, and notebooks</a>                                         |                                                                                                                                   
-| 📄 **Executive Presentation (PDF)** | <a href="https://github.com/Aarongoldmananalyst/Winning-the-Space-Race-with-Data-Science/raw/main/Winning_the_Space_Race_with_Data_Science.pdf" target="_blank">Open executive slide deck</a> |
+| ▶️ Environment | 🔗 Access |
+|---------------|----------|
+| 🧠 **Open in Colab** | [Run directly in Google Colab (no setup required)](https://github.com/AaronKGoldman/IBM-Data-Analytics-Capstone/blob/main/1.%20Accessing%20APIs.ipynb) |
+| 💻 **View on GitHub** | [Browse source code, data, and notebooks](https://github.com/Aarongoldmananalyst/IBM-Data-Analytics-Capstone) |
+| 📄 **Executive Presentation (PDF)** | <a href="https://github.com/Aarongoldmananalyst/Winning-the-Space-Race-with-Data-Science/raw/main/Winning_the_Space_Race_with_Data_Science.pdf" target="_blank">Open executive slide deck</a> ||
 
 ---
 
+## 🔌 API Data Collection
+
+This project retrieves real-world data from external REST APIs and prepares it for downstream analysis.
+
+**Key steps:**
+- Connected to public REST APIs using Python (`requests`)
+- Retrieved and parsed structured JSON responses
+- Normalized API data into analysis-ready tables
+- Validated and cleaned data prior to analysis and modeling
+
+📓 **Notebook (API Integration):**  
+- [1_Accessing_APIs.ipynb](https://github.com/AaronKGoldman/IBM-Data-Analytics-Capstone/blob/main/1.%20Accessing%20APIs.ipynb)
+
+---
+
+## 📘 About This Project
+
+This repository is part of the **IBM Data Analytics Capstone**, demonstrating an end-to-end analytics workflow with a focus on **API-based data acquisition** and exploratory analysis.
+
+The project highlights:
+- Real-world data sourcing via external APIs  
+- Practical data preparation for analytics use cases  
+- Reproducible, notebook-driven analysis suitable for business and technical stakeholders  
+
+🔗 **Primary Notebook:**  
+- https://github.com/AaronKGoldman/IBM-Data-Analytics-Capstone/blob/main/1.%20Accessing%20APIs.ipynb
+
+📓 **Notebook (API Integration):**  
+- [1_Accessing_APIs.ipynb](https://github.com/AaronKGoldman/IBM-Data-Analytics-Capstone/blob/main/1.%20Accessing%20APIs.ipynb)
+
+---
+
+## 📘 About This Project
+
+This repository is part of the **IBM Data Analytics Capstone**, demonstrating an end-to-end analytics workflow with a focus on **API-based data acquisition**, data preparation, and analytical exploration.
+
+The project emphasizes:
+- Real-world data sourcing via external APIs  
+- Practical data engineering for analytics use cases  
+- Reproducible, notebook-driven analysis suitable for business and technical stakeholders  
+
+🔗 **Primary Notebook:**  
+- https://github.com/AaronKGoldman/IBM-Data-Analytics-Capstone/blob/main/1.%20Accessing%20APIs.ipynb
 
 
 ## 📊 Analysis & Key Insights
