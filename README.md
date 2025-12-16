@@ -37,7 +37,7 @@
 | ▶️ Environment | 🔗 Access |
 |---------------|----------|
 | 🧠 **Open in Colab** | [Run directly in Google Colab (no setup required)](https://github.com/AaronKGoldman/IBM-Data-Analytics-Capstone/blob/main/1.%20Accessing%20APIs.ipynb) |
-| 💻 **View on GitHub** | [Browse source code, data, and notebooks](https://github.com/Aarongoldmananalyst/IBM-Data-Analytics-Capstone) |
+| 💻 **View on GitHub** | [Browse source code, data, and notebooks](https://github.com/AaronKGoldman/IBM-Data-Analytics-Capstone) |
 | 📄 **Executive Presentation (PDF)** | <a href="https://github.com/Aarongoldmananalyst/Winning-the-Space-Race-with-Data-Science/raw/main/Winning_the_Space_Race_with_Data_Science.pdf" target="_blank">Open executive slide deck</a> ||
 
 ---
