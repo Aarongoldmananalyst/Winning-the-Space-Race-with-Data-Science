@@ -42,7 +42,19 @@
 | 💻 **View on GitHub**               | <a href="https://github.com/Aarongoldmananalyst/Winning-the-Space-Race-with-Data-Science" target="_blank">Browse source code, data, and notebooks</a>                                         |                                                                                                                                   
 | 📄 **Executive Presentation (PDF)** | <a href="https://github.com/Aarongoldmananalyst/Winning-the-Space-Race-with-Data-Science/raw/main/Winning_the_Space_Race_with_Data_Science.pdf" target="_blank">Open executive slide deck</a> |
 
+---
 
+
+
+## 📊 Analysis & Key Insights
+
+This project focuses on analyzing historical data to identify trends, patterns,
+and strategic insights related to technology skills demand and industry evolution.
+
+Key outcomes include:
+- Identification of high-growth programming languages and databases
+- Trend analysis across time and regions
+- Data-driven recommendations for workforce planning and skill development
 
 ---
 
@@ -52,7 +64,7 @@ This project mirrors a **real-world analytics engagement**, complete with:
 - **Data scraping** from SpaceX public sources  
 - **SQL + Python integration** for analytics  
 - **Predictive modeling** using scikit-learn  
-- **Interactive dashboards** via Plotly Dash and Folium  
+- **Interactive visualizations** using Plotly and Folium 
 - **Executive storytelling** deck for decision-making  
 
 ---
@@ -84,17 +96,7 @@ This project mirrors a **real-world analytics engagement**, complete with:
 
 🏁 **Winner:** Decision Tree — most accurate, interpretable, and deployment-ready.
 
----
 
-## 📊 Analysis & Key Insights
-
-This project focuses on analyzing historical data to identify trends, patterns,
-and strategic insights related to technology skills demand and industry evolution.
-
-Key outcomes include:
-- Identification of high-growth programming languages and databases
-- Trend analysis across time and regions
-- Data-driven recommendations for workforce planning and skill development
 
 
 ---
@@ -120,10 +122,9 @@ Key outcomes include:
 ├── spacex_web_scraped.csv
 ├── visuals/
 │   ├── space_race_banner.png
-│   ├── launch_map.png
-│   └── dashboard_demo.gif
-└── docs/
-    └── Winning_the_Space_Race_with_Data_Science.pdf
+│   ├── launch_map.png 
+├── docs/
+    ├── Winning_the_Space_Race_with_Data_Science.pdf
 
 ---
 
@@ -133,7 +134,7 @@ Key outcomes include:
 - End-to-end analytics pipeline: raw data → ML models → executive insights
 - Predictive modeling with 86.7% accuracy (Decision Tree)
 - Strong SQL + Python integration for analytics workflows
-- Executive storytelling focused on ROI and business impact
+- Executive storytelling focused on ROI and decision-making
 
 
 ---
