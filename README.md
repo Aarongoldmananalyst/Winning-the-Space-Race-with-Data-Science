@@ -57,22 +57,8 @@ This project retrieves real-world data from external REST APIs and prepares it f
 
 ---
 
-## 📘 About This Project
 
-This repository is part of the **IBM Data Analytics Capstone**, demonstrating an end-to-end analytics workflow with a focus on **API-based data acquisition** and exploratory analysis.
 
-The project highlights:
-- Real-world data sourcing via external APIs  
-- Practical data preparation for analytics use cases  
-- Reproducible, notebook-driven analysis suitable for business and technical stakeholders  
-
-🔗 **Primary Notebook:**  
-- https://github.com/AaronKGoldman/IBM-Data-Analytics-Capstone/blob/main/1.%20Accessing%20APIs.ipynb
-
-📓 **Notebook (API Integration):**  
-- [1_Accessing_APIs.ipynb](https://github.com/AaronKGoldman/IBM-Data-Analytics-Capstone/blob/main/1.%20Accessing%20APIs.ipynb)
-
----
 
 ## 📘 About This Project
 
@@ -81,10 +67,14 @@ This repository is part of the **IBM Data Analytics Capstone**, demonstrating an
 The project emphasizes:
 - Real-world data sourcing via external APIs  
 - Practical data engineering for analytics use cases  
-- Reproducible, notebook-driven analysis suitable for business and technical stakeholders  
+- Reproducible, notebook-driven analysis suitable for business and technical stakeholders
+
+ 
 
 🔗 **Primary Notebook:**  
 - https://github.com/AaronKGoldman/IBM-Data-Analytics-Capstone/blob/main/1.%20Accessing%20APIs.ipynb
+
+ ---
 
 
 ## 📊 Analysis & Key Insights
