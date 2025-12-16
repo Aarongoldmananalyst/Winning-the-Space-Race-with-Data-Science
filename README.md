@@ -39,13 +39,13 @@
 
 ---
 
-## 🎥 Dashboard Demo
+| Environment                         | Access                                                                                                                                                                                        |
+| ----------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🧠 **Open in Colab**                | <a href="https://github.com/Aarongoldmananalyst/IBM-Data-Analytics-Capstone/blob/main/1.%20Accessing%20APIs.ipynb" target="_blank">Run directly in Google Colab (no setup required)</a>       |
+| 💻 **View on GitHub**               | <a href="https://github.com/Aarongoldmananalyst/Winning-the-Space-Race-with-Data-Science" target="_blank">Browse source code, data, and notebooks</a>                                         |                                                                                                                                   
+| 📄 **Executive Presentation (PDF)** | <a href="https://github.com/Aarongoldmananalyst/Winning-the-Space-Race-with-Data-Science/raw/main/Winning_the_Space_Race_with_Data_Science.pdf" target="_blank">Open executive slide deck</a> |
 
-<p align="center">
-  <img src="visuals/dashboard_demo.gif" width="80%" alt="Plotly Dash Dashboard Demo">
-</p>
 
-> *Interactive Plotly Dash dashboard showing launch outcomes, payload trends, and orbit success rates.*
 
 ---
 
@@ -89,12 +89,16 @@ This project mirrors a **real-world analytics engagement**, complete with:
 
 ---
 
-## 📊 Key Insights
+## 📊 Analysis & Key Insights
 
-- 🚀 **Experience matters:** 100% landing success after 80+ launches.  
-- 🌍 **Coastal launch sites** = higher success rates.  
-- 🛰️ **Orbit type impacts outcomes:** LEO and SSO dominate.  
-- 💰 **Reusability** drives cost efficiency and ROI.  
+This project focuses on analyzing historical data to identify trends, patterns,
+and strategic insights related to technology skills demand and industry evolution.
+
+Key outcomes include:
+- Identification of high-growth programming languages and databases
+- Trend analysis across time and regions
+- Data-driven recommendations for workforce planning and skill development
+
 
 ---
 
@@ -111,8 +115,8 @@ This project mirrors a **real-world analytics engagement**, complete with:
 
 ---
 
-🗂️ Repository Structure
-.
+## 🗂️ Repository Structure
+
 ├── README.md
 ├── requirements.txt
 ├── Space_Race_Analytics.ipynb
@@ -124,7 +128,9 @@ This project mirrors a **real-world analytics engagement**, complete with:
 └── docs/
     └── Winning_the_Space_Race_with_Data_Science.pdf
 
-🌟 Recruiter Highlights
+---
+
+## 🌟 Recruiter Highlights
 
 ✅ End-to-end pipeline: From raw data → dashboards → predictive models
 ✅ Instant demo: Colab-ready and fully interactive
@@ -132,22 +138,28 @@ This project mirrors a **real-world analytics engagement**, complete with:
 ✅ Visual polish: Banner, badges, and GIFs make it stand out
 ✅ Keywords: Data Analytics · Machine Learning · SQL · Predictive Modeling · Visualization
 
-💬 Lessons Learned
+---
 
-Clean, verified data builds more trust than complex models.
-SQL + Python integration speeds up feature exploration.
-Visual analytics converts data into executive action.
+## 💬 Lessons Learned
 
-👨‍🚀 Author
+* Clean, verified data builds more trust than complex models.
+* SQL + Python integration speeds up feature exploration.
+* Visual analytics converts data into executive action.
 
-Aaron Goldman
+---
+
+##  👨‍🚀 Author
+
+**Aaron Goldman**
 
 
 Data Analyst | Machine Learning | Business Intelligence Storyteller
 
 <p align="center"> <a href="https://linkedin.com/in/aaron-goldmans"><img src="https://img.shields.io/badge/Connect-LinkedIn-blue?logo=linkedin"></a> <a href="https://github.com/AaronKGoldman"><img src="https://img.shields.io/badge/View-GitHub-black?logo=github"></a> <a href="https://github.com/AaronKGoldman/Data-Science-Capstone-IBM"><img src="https://img.shields.io/badge/Open-Portfolio-orange?logo=python"></a> </p>
 
-“Predicting rocket landings isn’t just about data science — it’s analytics with lift-off.”
+🚀 “Predicting rocket landings isn’t just about data science — it’s analytics with lift-off.”
+
+
 🌌 Built for impact. Designed for recruiters. Ready for takeoff.
 
 ---
